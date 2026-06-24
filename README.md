@@ -78,6 +78,7 @@ Implements **Recall@K / NDCG@K / MRR**, depending only on a retriever's `.search
 
 No human labels exist, so **derive queries from listings**: for each listing, an LLM writes a query a user might type; that listing's id is the ground-truth answer.
 
+
 ![Eval set generation](assets/evalset.png)
 
 - **Generator:** `flan-t5-large` (free, local GPU, no API key).

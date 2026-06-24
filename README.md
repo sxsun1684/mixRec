@@ -1,7 +1,7 @@
 # Semantic Search & Retrieval Platform
 
 > An end-to-end semantic search system built from scratch over Airbnb-style listing data
-> (San Francisco, **7,528 listings**): data pipeline → a data-decoupled retrieval framework →
+> (San Francisco): data pipeline → a data-decoupled retrieval framework →
 > semantic retrieval core → a full evaluation harness → hybrid fusion + cross-encoder reranking.
 > Every improvement is driven by a **hypothesis → experiment → metric → decision** loop and backed by numbers.
 
